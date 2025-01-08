@@ -1,0 +1,1 @@
+This repository demonstrates a common race condition in asynchronous network requests in Swift and how to mitigate it. The `bug.swift` file contains code with the race condition, while `bugSolution.swift` shows a solution using a cancellable operation.
